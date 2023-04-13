@@ -1,4 +1,4 @@
-![alt text](figs/vossen_group_logo_2023.jpg)
+<img src="figs/vossen_group_logo_2023.jpg" alt="alt text" width="200"/>
 
 # CLAS12 Pipeline
 This repository is a generalized analysis pipeline written for the analysis of lambda hyperons at CLAS12, but easily extendable to other channels.
