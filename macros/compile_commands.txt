@@ -1,0 +1,1 @@
+g++ -o macro macro.C `root-config --cflags --libs`
